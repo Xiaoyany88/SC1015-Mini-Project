@@ -4,14 +4,12 @@
 This is a Mini Project for SC1015 (Introduction to Data Science and Artificial Intelligence)
 which focuses on determining the factors that influence the timeliness of pharmaceutical deliveries to predict delivery of HIV drugs, whether there will be delay.
 
-For a detailed walkthrough, do view our source code:
-
-
+For a detailed walkthrough, do view our source code
 
 ## Contributors: 
-- Zhang Xiaoyang (U2121950J)
-- Ang Yi Heng Bryan (U2121950J)
-- Chua Shi Wei (U2122805B)
+- Zhang Xiaoyang (U2121950J) - Data Extraction, Data Visualisation, Random Forest
+- Ang Yi Heng Bryan (U2121950J) - Data Resampling and Splitting, k Neigbours
+- Chua Shi Wei (U2122805B) - Logistic Regression, GaussianNB, Random Forest
 
 ## Problem Definition
 Delays in the supply of commodities result in extra costs in terms of storage, coordination, and most importantly, lost lives in the case of HIV medicines. 
