@@ -9,7 +9,7 @@ For a detailed walkthrough, do view our source code
 ## Contributors: 
 - Zhang Xiaoyang (U2121950J) - Data Extraction, Data Visualisation, Random Forest
 - Ang Yi Heng Bryan (U2122887A) - Data Resampling and Splitting, k Neigbours
-- Chua Shi Wei (U2122805B) - Logistic Regression, GaussianNB, Random Forest
+- Chua Shi Wei (U2122805B) - Logistic Regression, GaussianNB, Decision Tree
 
 ## Problem Definition
 Delays in the supply of commodities result in extra costs in terms of storage, coordination, and most importantly, lost lives in the case of HIV medicines. 
@@ -25,8 +25,8 @@ This project will use publicly available supply chain data to determine the most
 
 ## Conclusion
 - Using appropriate Machine Learning Model, Supply Chain Managers can predict whether their will be a delay in supply HIV medicines. As such, they can modify appropriate variables ad predict what actions should be taken to prevent the delay.
+- Based on our machine learning model, we have found out that the factors that caused most of the delays in Supply Chain management are shipment mode, the planned dates between deliveries to the clients and the Line Item Quality.
 - Random Forest works best for our dataset which gives highest accuracy and one of the lowest False Positive Rate in predicting whether there's a delay
-- 
 
 
 ## What we learn from this project?
