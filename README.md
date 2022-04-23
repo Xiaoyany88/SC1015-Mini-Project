@@ -8,7 +8,7 @@ For a detailed walkthrough, do view our source code
 
 ## Contributors: 
 - Zhang Xiaoyang (U2121950J) - Data Extraction, Data Visualisation, Random Forest
-- Ang Yi Heng Bryan (U2121950J) - Data Resampling and Splitting, k Neigbours
+- Ang Yi Heng Bryan (U2122887A) - Data Resampling and Splitting, k Neigbours
 - Chua Shi Wei (U2122805B) - Logistic Regression, GaussianNB, Random Forest
 
 ## Problem Definition
